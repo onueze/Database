@@ -1,2 +1,2 @@
 # Database
-My own Database repository for exercises.
+Database projects (SQL).
